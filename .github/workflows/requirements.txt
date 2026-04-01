@@ -1,0 +1,5 @@
+python-telegram-bot
+yfinance
+deep_translator
+beautifulsoup4
+pytz
