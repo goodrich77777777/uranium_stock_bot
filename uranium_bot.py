@@ -10,7 +10,7 @@ from telegram import Bot
 
 # --- [설정 영역] ---
 TOKEN = "8480650074:AAHkyapxigLVh9FNquAeJ2fbLHu_jZOOwOo"
-GROUP_CHAT_ID = "-5063176250"  # 찾아내신 그룹 ID 적용 완료
+GROUP_CHAT_ID = "-1003800425149"
 
 KEYWORDS = ['uranium', 'enrichment', 'centrus', 'itochu', 'cameco', 'orano', 'reprocess', 'smr', 'kazakhstan', '우라늄', '농축', '센트러스', '이토추', '카메코', '오라노', '재처리', 'SMR']
 MARKET_KEYWORDS = ['Nasdaq', 'S&P 500', 'Federal Reserve', 'Wall Street', 'Stock Market', 'Inflation', 'CPI', 'TSLA', 'NVDA', 'QQQ', 'Market Summary']
