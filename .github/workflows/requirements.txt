@@ -1,5 +1,5 @@
 python-telegram-bot
-yfinan
+yfinance
 deep_translator
 beautifulsoup4
 pytz
