@@ -24,4 +24,4 @@ jobs:
         pip install python-telegram-bot yfinance deep_translator beautifulsoup4 pytz
 
     - name: 봇 실행
-      run: python uranium_bot.py
+      run: python uranium_bot.p
