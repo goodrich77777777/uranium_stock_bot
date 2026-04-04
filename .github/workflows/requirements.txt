@@ -3,3 +3,4 @@ yfinance
 deep_translator
 beautifulsoup4
 pytz
+lxml
